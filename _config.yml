@@ -1,0 +1,28 @@
+name: eduardogarciatorres
+favicon: null
+layout_spectrum: 0.4689628090709448
+typography_spectrum: 0.41079605696722865
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.5259567243047059
+  lightness: 0.08526821387931705
+  saturation: 0.49272744986228645
+  rhythmicContrast: 0.7931489767506719
+purpose: []
